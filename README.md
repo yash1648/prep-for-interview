@@ -106,5 +106,4 @@ A complete roadmap with resources and milestones to master full stack developmen
 
 ---
 
-👑 **Master this roadmap to become a confident, industry-ready Java Full Stack Developer.**
 
